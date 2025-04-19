@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #111;
+    color: rgb(29, 255, 29);
+    font-family:Consolas, monamediumco, monospace;
+}
+
+.headd {
+    background-color: #000000fa;
+    color: rgb(29, 255, 29);
+    height: 50px;
+    width: 100%;
+    font-weight: 600;
+    font-size: xx-large;
+    text-align: center;
+    font-family:Consolas, monamediumco, monospace;
+    padding-top: 9px;
+}
+
+.hh {
+    margin-left: 20px;
+}
+
+.fsside {
+    background-color: #141414fa;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.scrolable-div {
+    font-family: Consolas, monospace;
+    background-color: #141414fa;
+    overflow-x: hidden;
+    overflow-y: auto;
+    color: white;
+    font-weight: 600;
+    font-size: medium;
+    text-align: start;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imgsz {
+    height: 320px;
+    width: 220px;
+    border-radius: 5px;
+    border-style: groove;
+    border-color: rgba(114, 108, 102, 0.671);
+}
+
+.adjimg {
+    margin: 20px;
+    text-align: center;
+}
+
+.textt {
+    color: rgb(29, 255, 29);
+    font-weight: 600;
+    font-size: 90%;
+    
+    text-align: center;
+}
+
+a {
+    text-decoration: none !important;
+}
+.htex{
+    color: rgb(29, 255, 29);
+    font-weight: 600;
+    font-size: x-large;
+    font-family:Consolas, monamediumco, monospace;
+    margin-top: 360px;
+    margin-left: 304px;
+    text-decoration: none;
+}
+.ffsside{
+    background-color: #141414fa;
+    height: 650px;
+    width:1351px;
+    
+}
+.imgsi{
+    height: 300px;
+    width: 200px;
+    margin-left: 580px;
+    border-radius: 5px;
+   
+    border-width: 3px;
+    margin-top: 50px;
+    float: left;
+}
+.ftex{
+    color: rgb(29, 255, 29);
+    font-weight: 600;
+    font-size: x-large;
+    font-family:Consolas, monamediumco, monospace;
+    text-align: center;
+}
+.imgsel{
+    height: 565px;
+    background-color: #141414fa;
+    width: 450px;
+    float: left;
+    
+}.imgsel{
+    height: 565px;
+    background-color: #141414fa;
+    width: 450px;
+    float: left;
+    
+}
+.him{
+    height: 540px;
+    width: 410px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-style: groove;
+    border-width: 1px;
+    border-color: aliceblue;
+}
+.scrolable-div1
+{
+    font-family: Consolas, monaco, monospace;
+    background-color: black;
+    overflow-y: auto;
+    color: rgb(29, 255, 29);
+    font-weight: 600;
+    font-size: medium;
+    text-align: start;
+    height: 600px;
+    width: 60%;
+    padding: 20px;
+    border: 1px solid azure;
+    margin: 20px auto;
+}
